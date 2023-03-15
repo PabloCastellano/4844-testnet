@@ -71,7 +71,7 @@ geth-prysm-001-con:
 
   image:
     repository: ethpandaops/prysm
-    tag: eip4844-1-08a910e
+    tag: eip4844-6f22cd7
     pullPolicy: Always
 
   mode: "beacon"
